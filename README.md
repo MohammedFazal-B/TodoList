@@ -112,13 +112,6 @@ npm install
 
 ---
 
-## 🖥️ Screenshots
-
-![To-Do List UI](./screenshots/todo-ui.png)
-![MongoDB Data](./screenshots/mongodb-data.png)
-
----
-
 ## 🙋‍♂️ Author
 
 - **Name:** Mohammed Fazal B
