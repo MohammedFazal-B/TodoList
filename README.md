@@ -3,15 +3,6 @@
 A modern, full-stack To-Do List web application built as an internship project.  
 This app allows users to create, read, update, and delete tasks with a responsive UI and persistent storage.
 
----
-
-## 🗂️ Project Structure
-
-```
-Task/
-  backend/    # Express.js + MongoDB API
-  frontend/   # React.js + Vite + Tailwind CSS UI
-```
 
 ---
 
